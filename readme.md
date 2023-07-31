@@ -15,7 +15,8 @@ Luego, abre el cuaderno resumen_y_reporte_literatura_con_LLMs.ipynb en Jupyter y
 
 ## Requerimientos
 
-Python 3.10 
+Python: 3.10 
+
 Estas son las librerias necesarias para ejecutar el notebook:
 
 	bibtexparser==1.4.0
