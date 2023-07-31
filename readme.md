@@ -4,7 +4,7 @@ Este Jupyter Notebook analiza una colección de documentos de investigación par
 
 ## Uso
 
-Para utilizar este cuaderno, primero asegúrate de haber instalado todas las librerías requeridas que se listan en el archivo requirements.txt. Puedes hacerlo ejecutando el siguiente comando:
+Para utilizar este cuaderno, primero instala todas las librerías requeridas que se listan en el archivo requirements.txt. Puedes hacerlo ejecutando el siguiente comando:
 
 ```
 pip install -r requirements.txt
@@ -15,6 +15,7 @@ Luego, abre el cuaderno resumen_y_reporte_literatura_con_LLMs.ipynb en Jupyter y
 
 ## Requerimientos
 
+Python 3.10 
 Estas son las librerias necesarias para ejecutar el notebook:
 
 	bibtexparser==1.4.0
